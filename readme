@@ -1,0 +1,5 @@
+# xttt
+
+X tabbed text terminal.
+Script that uses xtab and xtrm to make more than
+one term in one X-window.
